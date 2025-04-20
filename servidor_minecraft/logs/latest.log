@@ -395,3 +395,10 @@ java.net.BindException: Cannot assign requested address
 [20Apr2025 07:08:35.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shantal was slain by Vindicator
 [20Apr2025 07:09:01.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shantal lost connection: Disconnected
 [20Apr2025 07:09:01.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shantal left the game
+[20Apr2025 07:12:53.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[20Apr2025 07:13:11.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[20Apr2025 07:14:57.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2733ms or 54 ticks behind
+[20Apr2025 07:18:53.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [War Pigs]
+[20Apr2025 07:19:06.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Hidden in the Depths]
+[20Apr2025 07:21:11.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixlapida123> oe no tienes un effiencia 4 para la pala
+[20Apr2025 07:21:18.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> nop
