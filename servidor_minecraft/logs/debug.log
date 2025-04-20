@@ -2094,3 +2094,45 @@ java.net.BindException: Cannot assign requested address
 [20Apr2025 05:36:06.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to shantal]
 [20Apr2025 05:36:25.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davixlapida123 moved too quickly! 9.280685753486864,1.0013359791121417,4.101606172574165
 [20Apr2025 05:37:14.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [crisrob: Teleported crisrob to davixlapida123]
+[20Apr2025 05:37:44.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to davixlapida123]
+[20Apr2025 05:37:58.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> dylan
+[20Apr2025 05:37:59.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
+[20Apr2025 05:38:08.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> te gusta para decorar
+[20Apr2025 05:38:10.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20Apr2025 05:38:19.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> pa decorar
+[20Apr2025 05:39:13.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 05:39:13.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 05:39:24.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=347, y=65, z=123} BlockPos{x=348, y=65, z=122}
+[20Apr2025 05:39:24.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=347, y=65, z=123} BlockPos{x=348, y=65, z=122}
+[20Apr2025 05:39:24.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=347, y=65, z=123} BlockPos{x=348, y=65, z=122}
+[20Apr2025 05:39:24.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=347, y=65, z=123} BlockPos{x=348, y=65, z=122}
+[20Apr2025 05:39:24.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=347, y=65, z=123} BlockPos{x=348, y=65, z=122}
+[20Apr2025 05:39:24.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=347, y=65, z=123} BlockPos{x=348, y=65, z=122}
+[20Apr2025 05:39:24.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=347, y=65, z=123} BlockPos{x=348, y=65, z=122}
+[20Apr2025 05:39:24.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=347, y=65, z=123} BlockPos{x=348, y=65, z=122}
+[20Apr2025 05:39:46.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=340, y=65, z=137} BlockPos{x=341, y=65, z=136}
+[20Apr2025 05:42:00.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Enchanter]
+[20Apr2025 05:42:17.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> xd
+[20Apr2025 05:42:19.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> XD
+[20Apr2025 05:42:27.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> tenia com 8
+[20Apr2025 05:42:30.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> era 9
+[20Apr2025 05:42:59.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=66, z=169} BlockPos{x=330, y=65, z=168}
+[20Apr2025 05:42:59.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=66, z=169} BlockPos{x=330, y=65, z=168}
+[20Apr2025 05:42:59.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=66, z=169} BlockPos{x=330, y=65, z=168}
+[20Apr2025 05:42:59.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=66, z=169} BlockPos{x=330, y=65, z=168}
+[20Apr2025 05:42:59.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=66, z=169} BlockPos{x=330, y=65, z=168}
+[20Apr2025 05:42:59.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=66, z=169} BlockPos{x=330, y=65, z=168}
+[20Apr2025 05:43:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Best Friends Forever]
+[20Apr2025 05:43:47.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> bueno davi tengo que irme a mimir
+[20Apr2025 05:43:55.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <crisrob> bye bye
+[20Apr2025 05:43:55.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> efe
+[20Apr2025 05:43:57.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crisrob lost connection: Disconnected
+[20Apr2025 05:43:57.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crisrob left the game
+[20Apr2025 05:43:58.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> bye
+[20Apr2025 05:44:13.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 05:44:13.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 05:45:47.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shantal moved too quickly! 1.2014974608570697,-10.806526110008988,0.06990487423871627
+[20Apr2025 05:45:48.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shantal fell from a high place
+[20Apr2025 05:46:33.524] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 20 ms
+[20Apr2025 05:47:39.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[20Apr2025 05:47:48.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Made papusos no longer a server operator]
