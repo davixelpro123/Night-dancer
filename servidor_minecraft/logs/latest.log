@@ -412,3 +412,11 @@ java.net.BindException: Cannot assign requested address
 [20Apr2025 07:39:16.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tenia como 20 pociones de antilava y se me olvido xd
 [20Apr2025 07:39:21.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira
 [20Apr2025 07:39:35.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixlapida123> cha
+[20Apr2025 07:42:18.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 has made the advancement [Who is Cutting Onions?]
+[20Apr2025 07:42:29.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=64, z=80} BlockPos{x=372, y=63, z=79}
+[20Apr2025 07:44:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to -157.500000, 56.500000, 2.500000]
+[20Apr2025 07:46:29.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Piglin Brute
+[20Apr2025 07:46:54.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to -166.500000, 82.500000, 2.500000]
+[20Apr2025 07:47:52.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Piglin
+[20Apr2025 07:48:11.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to -154.500000, 73.500000, -19.500000]
+[20Apr2025 07:51:16.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Spectator Mode]
