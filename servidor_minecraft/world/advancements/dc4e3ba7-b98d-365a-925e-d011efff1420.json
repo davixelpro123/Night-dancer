@@ -382,6 +382,7 @@
       "minecraft:creeper": "2025-04-20 04:35:02 +0000",
       "minecraft:witch": "2025-04-20 06:48:49 +0000",
       "minecraft:zombie": "2025-04-20 03:23:19 +0000",
+      "minecraft:drowned": "2025-04-20 07:03:41 +0000",
       "minecraft:zombie_villager": "2025-04-20 04:32:31 +0000"
     },
     "done": false
@@ -1410,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-20 06:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-04-20 05:36:17 +0000"
@@ -1431,6 +1438,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-20 05:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-20 07:02:46 +0000"
     },
     "done": true
   },
@@ -1500,9 +1513,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-20 06:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-20 05:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-20 07:02:46 +0000"
     },
     "done": true
   },

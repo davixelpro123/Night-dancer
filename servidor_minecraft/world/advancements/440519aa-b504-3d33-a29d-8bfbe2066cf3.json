@@ -950,6 +950,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-20 04:03:27 +0000",
       "minecraft:ravager": "2025-04-20 04:13:05 +0000",
+      "minecraft:piglin_brute": "2025-04-20 07:04:50 +0000",
       "minecraft:spider": "2025-04-20 06:35:12 +0000",
       "minecraft:creeper": "2025-04-20 04:02:55 +0000",
       "minecraft:phantom": "2025-04-20 06:33:43 +0000",
@@ -2082,6 +2083,12 @@
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-04-20 06:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-20 07:04:25 +0000"
     },
     "done": true
   },
