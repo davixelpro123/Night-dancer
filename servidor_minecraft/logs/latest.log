@@ -294,3 +294,55 @@ java.net.BindException: Cannot assign requested address
 [20Apr2025 06:18:00.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/29178, l='ServerLevel[world]', x=169.32, y=229.00, z=-816.62] died: Gearling was slain by davixelpro123
 [20Apr2025 06:18:02.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/29184, l='ServerLevel[world]', x=172.15, y=229.00, z=-818.74] died: Gearling was slain by davixelpro123
 [20Apr2025 06:18:24.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/28893, l='ServerLevel[world]', x=180.20, y=224.00, z=-816.22] died: Gearling was slain by davixelpro123
+[20Apr2025 06:19:52.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shantal was slain by Skeleton
+[20Apr2025 06:20:20.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was slain by Skeleton
+[20Apr2025 06:22:29.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[20Apr2025 06:23:08.738] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20Apr2025 06:23:54.308] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[20Apr2025 06:23:54.309] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[20Apr2025 06:23:54.309] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[20Apr2025 06:23:54.310] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[20Apr2025 06:23:54.310] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[20Apr2025 06:24:41.347] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 50 ms
+[20Apr2025 06:25:47.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> Dylan
+[20Apr2025 06:25:51.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35537, l='ServerLevel[world]', x=113.72, y=63.50, z=1257.63] died, message: 'Villager suffocated in a wall'
+[20Apr2025 06:25:55.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> en que cords esta la home ?
+[20Apr2025 06:26:02.871] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[20Apr2025 06:26:13.537] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20Apr2025 06:26:21.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixlapida123> 366 65 108
+[20Apr2025 06:26:21.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shantal> no se, como se ven las cords
+[20Apr2025 06:26:32.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> XD
+[20Apr2025 06:27:03.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixelpro123 to -879.500000, 71.500000, -399.500000]
+[20Apr2025 06:27:09.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[20Apr2025 06:27:39.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 was killed
+[20Apr2025 06:27:39.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Killed davixelpro123]
+[20Apr2025 06:28:40.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> mira a mil metros ay una aldea nevada y a mil trecientos metros ay una de este bioma cual vamos ?
+[20Apr2025 06:29:25.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixlapida123> que wea cuanto as explorado
+[20Apr2025 06:29:38.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> nose XD llevo 1 hora explorando
+[20Apr2025 06:29:49.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> 1 esta pa alla
+[20Apr2025 06:29:54.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> la de mil metros
+[20Apr2025 06:30:03.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> y la de mil trecientos pa alla
+[20Apr2025 06:30:11.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> podriamos conectar portales
+[20Apr2025 06:30:11.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixlapida123> no se
+[20Apr2025 06:30:14.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> por el nether
+[20Apr2025 06:30:28.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> que dices
+[20Apr2025 06:30:33.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixlapida123> ya
+[20Apr2025 06:30:36.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> ok
+[20Apr2025 06:30:59.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shantal has made the advancement [Suit Up]
+[20Apr2025 06:31:29.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> shantal no tienes armadura de diamante ?
+[20Apr2025 06:31:32.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixlapida123> me falta un culo por aplanar
+[20Apr2025 06:31:47.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shantal> si
+[20Apr2025 06:31:57.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> a ya
+[20Apr2025 06:33:22.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixlapida123> as de dia
+[20Apr2025 06:36:56.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Creative Mode]
+[20Apr2025 06:37:05.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Set own game mode to Survival Mode]
+[20Apr2025 06:41:06.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixlapida123 tried to swim in lava
+[20Apr2025 06:41:10.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> tienes 1 de hilo ?
+[20Apr2025 06:41:28.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixlapida123> asme tp ala base
+[20Apr2025 06:41:28.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> dylan
+[20Apr2025 06:41:34.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixelpro123: Teleported davixlapida123 to davixelpro123]
+[20Apr2025 06:41:37.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> xd
+[20Apr2025 06:44:40.922] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20Apr2025 06:44:57.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <davixelpro123> no duerman tengo que farmear hilo plis
+[20Apr2025 06:44:59.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=272, y=70, z=58} BlockPos{x=273, y=67, z=58}
+[20Apr2025 06:49:48.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shantal was slain by Skeleton
